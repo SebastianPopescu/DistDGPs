@@ -6,7 +6,7 @@ This repository is the official implementation of [Hierarchical Gaussian Process
 
 >📋  ![Conceptual Differences between DGPs and DDGPs](schematic_dgp_ddgp_v2.png)
 
->📋  ![Conceptual Differences between Euclidean and Hybrid Kernel](schematic_hybrid_kernel_v2.png)
+>📋  ![Conceptual Differences between Euclidean and Hybrid Kernel](schematic_hybrid_kernel.png)
 
 ## Requirements
 
