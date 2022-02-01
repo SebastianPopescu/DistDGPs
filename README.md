@@ -4,7 +4,9 @@
 
 This repository is the official implementation of [Hierarchical Gaussian Processes with Wasserstein-2 kernels](https://arxiv.org/abs/2010.14877). 
 
->📋  ![Conceptual Differences between DGPs and DDGPs](unet_se_architecture.png)
+>📋  ![Conceptual Differences between DGPs and DDGPs](schematic_dgp_ddgp_v2.png)
+
+>📋  ![Conceptual Differences between Euclidean and Hybrid Kernel](schematic_hybrid_kernel_v2.png)
 
 ## Requirements
 
